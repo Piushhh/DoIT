@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+}
+
+.heading{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
